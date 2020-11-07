@@ -1,4 +1,4 @@
-# Web Scraping Indeed and Monster job portals using Python
+# Web Scraping Indeed, Monster, and Dice job portals using Python
 
 Python sample webscraping with requests and BeautifoulSoup packages.
 
