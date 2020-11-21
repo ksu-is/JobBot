@@ -1,9 +1,10 @@
 # Project Roadmap
 
 ## Sprint 1
-   Due Friday, 11.06.2020
-    1. Decide on an idea for project and add it to the project worksheet
-    2. Find a repository to map over
+     Due Friday, 11.06.2020
+      1. Decide on project and post project in Excel spreadsheet 
+      2. Fork repository and work on project
+      3. Create read.me and other relevant files and start making changes
 
 ## Sprint 2
     Due Friday, 11.20.2020
