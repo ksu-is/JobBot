@@ -1,7 +1,6 @@
 # Project Roadmap
 
 ## Sprint 1
-
 Due Friday, 11.06.2020
     1. Decide on an idea for project and add it to the project worksheet
     2. Find a repository to map over
@@ -11,7 +10,7 @@ Due Friday, 11.06.2020
       1. Modify projectroadmap.md to include deliverables
       2. Track progress on planned and emerging tasks in  projectroadmap.md 
       3. Commmit at least 6 code changes of significant size 
- X    4. Add BeautifulSoup to repository 
+      4. Add BeautifulSoup to repository 
       
 
  ## Sprint 3 
